@@ -1,0 +1,2 @@
+# greatthiNks
+my first repository
