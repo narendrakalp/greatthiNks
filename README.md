@@ -1,3 +1,4 @@
 # greatthiNks
-my first repository
-author = sankalp srivastava 
+my first repository 
+<br>
+Author = sankalp srivastava 
